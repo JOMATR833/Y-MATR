@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Y.MATR</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        main {
+            padding: 50px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Y.MATR
+    </header>
+    <main>
+        <h1>مرحبًا بك في موقع Y.MATR</h1>
+        <p>هذا مجرد قالب يمكنك تخصيصه لاحقًا.</p>
+    </main>
+    <footer>
+        &copy; 2025 Y.MATR - جميع الحقوق محفوظة
+    </footer>
+</body>
+</html>
